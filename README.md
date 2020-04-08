@@ -1,5 +1,7 @@
-# E10a-Blender
-This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
+# E10a-Blender for MSCH220 Indiana University 
+# Directions are below 
+
+# This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
 
 As usual, Fork and Clone this repository.
 
